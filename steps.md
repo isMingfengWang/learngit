@@ -16,5 +16,5 @@ git remote add origin git@github.com:michaelliao/learngit.git
   - git commit -m "comments"
     - 将文件提交
   - git push origin main
-    - 将文件推送
+    - 将文件推送到github的repositories
 
